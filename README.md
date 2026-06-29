@@ -2,3 +2,5 @@
 
 ### * Lógica e Algoritmos - [Material de Apoio](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Material%20de%20Apoio/M%C3%B3dulo%202)
 
+### * Kotlin - História e conceitos - [Material de Apoio](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Material%20de%20Apoio/M%C3%B3dulo%203)
+
