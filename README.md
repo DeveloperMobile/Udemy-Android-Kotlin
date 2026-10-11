@@ -9,3 +9,5 @@
 ### * Kotlin - Funções - [Material de Apoio](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Material%20de%20Apoio/M%C3%B3dulo%207)![](/home/tiago/Imagens/livros.png) - [Projetos](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Projetos/M%C3%B3dulo%207)
 
 ### * Kotlin - Controle de fluxo - [Material de Apoio](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Material%20de%20Apoio/M%C3%B3dulo%208)![](/home/tiago/Imagens/livros.png) - [Projetos](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Projetos/M%C3%B3dulo%208)
+
+### * Kotlin - Exeções e Null Safety - [Projetos](https://github.com/DeveloperMobile/Udemy-Android-Kotlin/tree/main/Projetos/M%C3%B3dulo%209/Excecoes)
